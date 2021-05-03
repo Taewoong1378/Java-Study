@@ -1,0 +1,22 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Inheritance2_Project.ParentClass"><rhs name\="Inheritance2_Project.SecondChildClass"/></lhs><lhs name\="Inheritance2_Project.SecondChildClass"><rhs name\="Inheritance2_Project.SecondChildClass"/></lhs><lhs name\="temporary_Project.Grandeur"><rhs name\="temporary_Project.Grandeur"/></lhs><lhs name\="temporary_Project.Bicycle"><rhs name\="temporary_Project.Bicycle"/></lhs><lhs name\="temporary_Project.ChildClass"><rhs name\="temporary_Project.ChildClass"/></lhs><lhs name\="temporary_Project.Student"><rhs name\="temporary_Project.Student"/></lhs><lhs name\="temporary_Project.ParentClass"><rhs name\="temporary_Project.ChildClass"/><rhs name\="temporary_Project.ParentClass"/></lhs><lhs name\="temporary_Project.InterfaceA"><rhs name\="temporary_Project.ImplementClass"/></lhs><lhs name\="temporary_Project.ManagementClass"><rhs name\="temporary_Project.ManagementClass"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="temporary_Project.ObjectEx"><rhs name\="temporary_Project.ObjectEx"/></lhs><lhs name\="temporary_Project.EmployeeBank"><rhs name\="temporary_Project.EmployeeBank"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="temporary_Project.Interface"><rhs name\="temporary_Project.InterfaceClass"/></lhs><lhs name\="temporary_Project.InterfaceClass"><rhs name\="temporary_Project.InterfaceClass"/></lhs><lhs name\="team1.AccessTest"><rhs name\="team1.AccessTest"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="num81_120.num130"><rhs name\="num81_120.num130"/></lhs><lhs name\="num211_220.num222"><rhs name\="num211_220.num222"/></lhs><lhs name\="num211_220.Person"><rhs name\="num211_220.Person"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
